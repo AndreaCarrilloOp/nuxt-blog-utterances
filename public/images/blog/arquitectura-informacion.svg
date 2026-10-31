@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Arquitectura de la información">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#19243B"/></linearGradient><radialGradient id="glow"><stop stop-color="#75D6E6" stop-opacity=".22"/><stop offset="1" stop-color="#75D6E6" stop-opacity="0"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="18" flood-opacity=".3"/></filter></defs>
+ <rect width="1200" height="630" fill="url(#bg)"/>
+ <circle cx="970" cy="310" r="440" fill="url(#glow)"/>
+ <path d="M0 540H1200 M0 570H1200 M0 600H1200" stroke="#CAD7EE" stroke-opacity=".05"/>
+ <g stroke="#CBD5E1" stroke-opacity=".05"><path d="M0 0V630"/><path d="M60 0V630"/><path d="M120 0V630"/><path d="M180 0V630"/><path d="M240 0V630"/><path d="M300 0V630"/><path d="M360 0V630"/><path d="M420 0V630"/><path d="M480 0V630"/><path d="M540 0V630"/><path d="M600 0V630"/><path d="M660 0V630"/><path d="M720 0V630"/><path d="M780 0V630"/><path d="M840 0V630"/><path d="M900 0V630"/><path d="M960 0V630"/><path d="M1020 0V630"/><path d="M1080 0V630"/><path d="M1140 0V630"/><path d="M1200 0V630"/></g>
+ <rect x="70" y="70" width="56" height="6" rx="3" fill="#75D6E6"/>
+ <text x="70" y="157" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="43" font-weight="700">Arquitectura de la información</text>
+ <text x="72" y="197" fill="#9AAFCB" font-family="Inter,Arial,sans-serif" font-size="21">Organizar contenido para encontrarlo mejor</text>
+ <g transform="translate(670 175)" filter="url(#shadow)">
+<rect x="95" y="0" width="178" height="68" rx="14" fill="#223955" stroke="#75D6E6" stroke-width="3"/><text x="184" y="43" text-anchor="middle" fill="#E7FAFC" font-size="21" font-family="Arial">INICIO</text>
+<path d="M184 68V111M32 111H340M32 111V145M184 111V145M340 111V145" stroke="#75D6E6" stroke-width="4" fill="none" stroke-linecap="round"/>
+<rect x="-40" y="145" width="145" height="78" rx="14" fill="#27445C" stroke="#75D6E6" stroke-opacity=".8" stroke-width="2"/><rect x="110" y="145" width="145" height="78" rx="14" fill="#27445C" stroke="#75D6E6" stroke-opacity=".8" stroke-width="2"/><rect x="268" y="145" width="145" height="78" rx="14" fill="#27445C" stroke="#75D6E6" stroke-opacity=".8" stroke-width="2"/>
+<g fill="#BEEFF6" font-size="17" font-family="Arial" text-anchor="middle"><text x="32" y="190">CONTENIDO</text><text x="182" y="190">MENÚ</text><text x="340" y="190">BÚSQUEDA</text></g>
+<g stroke="#6EC8D5" stroke-width="3" fill="none" stroke-linecap="round"><path d="M32 223V275M184 223V275M340 223V275"/><rect x="-3" y="275" width="70" height="45" rx="9"/><rect x="149" y="275" width="70" height="45" rx="9"/><rect x="305" y="275" width="70" height="45" rx="9"/></g>
+</g>
+ <text x="72" y="576" fill="#75D6E6" font-size="15" font-weight="700" letter-spacing="4" font-family="Arial,sans-serif">BLOG · TECNOLOGÍA WEB</text>
+ </svg>

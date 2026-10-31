@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Comentarios con Utterances">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1221"/><stop offset="1" stop-color="#19243B"/></linearGradient><radialGradient id="glow"><stop stop-color="#A7A3FF" stop-opacity=".22"/><stop offset="1" stop-color="#A7A3FF" stop-opacity="0"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="18" flood-opacity=".3"/></filter></defs>
+ <rect width="1200" height="630" fill="url(#bg)"/>
+ <circle cx="970" cy="310" r="440" fill="url(#glow)"/>
+ <path d="M0 540H1200 M0 570H1200 M0 600H1200" stroke="#CAD7EE" stroke-opacity=".05"/>
+ <g stroke="#CBD5E1" stroke-opacity=".05"><path d="M0 0V630"/><path d="M60 0V630"/><path d="M120 0V630"/><path d="M180 0V630"/><path d="M240 0V630"/><path d="M300 0V630"/><path d="M360 0V630"/><path d="M420 0V630"/><path d="M480 0V630"/><path d="M540 0V630"/><path d="M600 0V630"/><path d="M660 0V630"/><path d="M720 0V630"/><path d="M780 0V630"/><path d="M840 0V630"/><path d="M900 0V630"/><path d="M960 0V630"/><path d="M1020 0V630"/><path d="M1080 0V630"/><path d="M1140 0V630"/><path d="M1200 0V630"/></g>
+ <rect x="70" y="70" width="56" height="6" rx="3" fill="#A7A3FF"/>
+ <text x="70" y="157" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="43" font-weight="700">Comentarios con Utterances</text>
+ <text x="72" y="197" fill="#9AAFCB" font-family="Inter,Arial,sans-serif" font-size="21">Conversaciones conectadas con GitHub Issues</text>
+ <g transform="translate(660 135)" filter="url(#shadow)">
+<rect width="415" height="265" rx="25" fill="#233552" stroke="#A7A3FF" stroke-width="3"/>
+<path d="M70 265L40 303V265" fill="#233552" stroke="#A7A3FF" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="60" cy="66" r="23" fill="#958DF5"/><circle cx="60" cy="61" r="8" fill="#253452"/><path d="M46 81Q60 65 74 81" stroke="#253452" stroke-width="5" fill="none"/>
+<rect x="100" y="47" width="227" height="13" rx="6" fill="#D8D7FF"/><rect x="100" y="75" width="164" height="10" rx="5" fill="#7786AB"/>
+<rect x="35" y="125" width="340" height="2" fill="#5A6687"/>
+<rect x="42" y="152" width="300" height="12" rx="6" fill="#9AADD3"/><rect x="42" y="179" width="250" height="12" rx="6" fill="#7083A9"/><rect x="42" y="206" width="195" height="12" rx="6" fill="#7083A9"/>
+<circle cx="360" cy="244" r="33" fill="#A7A3FF"/><path d="M349 244h22m-11-11v22" stroke="#202B47" stroke-width="5" stroke-linecap="round"/>
+</g><g fill="#A7A3FF"><circle cx="733" cy="475" r="9"/><circle cx="769" cy="475" r="9"/><circle cx="805" cy="475" r="9"/></g>
+ <text x="72" y="576" fill="#A7A3FF" font-size="15" font-weight="700" letter-spacing="4" font-family="Arial,sans-serif">BLOG · TECNOLOGÍA WEB</text>
+ </svg>
